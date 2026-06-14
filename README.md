@@ -1,3 +1,5 @@
+![MemoryMesh Banner](banner.png)
+
 # MemoryMesh
 
 ## Overview
