@@ -1,4 +1,4 @@
-![MemoryMesh Banner](banner.png)
+![MemoryMesh Banner](Banner.png)
 
 # MemoryMesh
 
